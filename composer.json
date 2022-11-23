@@ -1,0 +1,18 @@
+{
+    "name": "dirk/schaakclub-de-blauwe-loper",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dirk\\SchaakclubDeBlauweLoper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DirkieDurky",
+            "email": "dirk@freijters.nl"
+        }
+    ]
+}

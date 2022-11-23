@@ -1,0 +1,11 @@
+:root {
+    --cs-1: #000E31;
+    --cs-2: #023A68;
+    --cs-3: #115C9A;
+    --cs-4: #348FDA;
+    --cs-5: #FFFFFF;
+}
+
+#page {
+    margin: 2em;
+}
